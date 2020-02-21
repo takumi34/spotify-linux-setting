@@ -1,5 +1,5 @@
 # spotify-linux-setting
-spotify's app in Linux is not scaling in HDPI display.
+Spotify's app in Linux is not scaling in HDPI display.
 
 1. Edit the setting file. 
 ```bash
